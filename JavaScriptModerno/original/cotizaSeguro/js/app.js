@@ -108,6 +108,7 @@ formulario.addEventListener('submit', function (e) {
         // Cotizar seguro
         const cantidad = seguro.cotizarSeguro();
         
+
     }
 });
 
